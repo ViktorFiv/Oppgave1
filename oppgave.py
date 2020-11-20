@@ -1,1 +1,1 @@
-print("lol viktor gay")
+print("MaN")
